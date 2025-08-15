@@ -296,10 +296,12 @@ python3 main.py --flow \
 
 If you find our repository useful, please consider citing it as follows
 ```
-@inproceedings{yu2025dre,
-	title = {Density {Ratio} {Estimation} with {Conditional} {Probability} {Paths}},
-	booktitle = {International {Conference} on {Machine} {Learning}},
-	author = {{Hanlin Yu} and {Arto Klami} and {Aapo Hyvärinen} and {Anna Korba} and {Omar Chehab}},
-	year = {2025},
+@inproceedings{
+yu2025density,
+title={Density Ratio Estimation with Conditional Probability Paths},
+author={Hanlin Yu and Arto Klami and Aapo Hyvarinen and Anna Korba and Omar Chehab},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=Gn2izAiYzZ}
 }
 ```
